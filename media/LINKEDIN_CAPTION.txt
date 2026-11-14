@@ -1,0 +1,10 @@
+More bookings. Better margins. Smarter event finance. 🎉
+
+My ServiceNow + JavaScript prototype flags quote follow-ups, margin risks and relevant add-ons.
+
+🧪 24 synthetic opportunities • 29 tests passed
+Local prototype; not yet yet a live business deployment.
+
+💻 GitHub: https://github.com/servicenowjyo
+
+#ServiceNow #JavaScript #FinanceAutomation #ServiceNowDeveloper

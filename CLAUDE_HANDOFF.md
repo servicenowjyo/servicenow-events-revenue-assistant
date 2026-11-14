@@ -1,0 +1,14 @@
+# Handoff (updated 14 Nov 2026): ServiceNow version
+The platform changed from Salesforce to ServiceNow at the author's request. The Salesforce LWC and metadata were moved to `_archive_salesforce/`, which is gitignored and not published. The ServiceNow app is deployed on the author's developer instance and verified there (see results/STATUS.md). The author asked for the repo to be published on GitHub, including the media folder with Kaivalyam photos, Sahitya's portrait and the booking number. Both infographic PNGs still say "Salesforce" and should be regenerated before posting.
+
+## Earlier handoff notes (Salesforce era, kept for history)
+# Handoff — local prototype only
+Owner: servicenowjyo. Suggested new repository `salesforce-events-revenue-assistant`; the user/Claude chooses whether to publish. Keep separate from ServiceNow projects. Upload original source, synthetic datasets, tests, prompts and docs only after user authorizes publication. No client records, private chats, resume, credentials, social-media photos or third-party PDFs. Avoid asserting a real Kaivalyam client engagement or verified income increase.
+
+Run `npm test` and `npm run demo`. Read DATASET_CARD.md and SALESFORCE_SETUP.md. LWC source and metadata are supplied but not compiled/deployed/tested in Salesforce. No genuine platform screenshots exist. Capture them after deployment, never substitute generated dashboard art. Local rule counts and illustrative add-on scenarios are not business results. If publishing for a real client, use their approval for name/logo/data; no logo is bundled here.
+
+## LinkedIn infographic kit
+User requested this infographic and project files as a handoff for Claude. `media/LinkedIn_Infographic.png` is the final shareable image; INFOGRAPHIC_PROMPT.txt records generation, LINKEDIN_CAPTION.txt and ALT_TEXT.txt are post drafts, and INFOGRAPHIC_QA.md records checks. Keep the image intact, including synthetic-data/local-prototype disclosures and GitHub link. Do not claim Salesforce deployment or actual income growth. Nothing has been posted by Codex. Preserve all folders if later uploading under the user's authorization.
+
+## Kaivalyam photographic infographic v2
+LATEST USER REVISION: use `media/LinkedIn_Infographic_Kaivalyam_v2.png` for the intended post. It adds original event photos and Sahitya's founder portrait, plus booking contact +91 99859 77703 provided by the user. Keep github.com/servicenowjyo as the separate project-code link. Preserve the v2 source note, prompt, caption, alt text and QA. Do not describe the synthetic metrics as Kaivalyam's actual earnings. Do not strip the local/not-deployed disclosure. Third-party source photos and portrait are excluded from MIT software licensing; do not reuse them for unrelated projects. Nothing has been published by Codex. Earlier generic infographic is retained as version1.

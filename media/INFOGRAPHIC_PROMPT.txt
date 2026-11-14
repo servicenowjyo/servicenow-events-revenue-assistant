@@ -1,0 +1,55 @@
+Use case: infographic-diagram.
+Create a striking professional LinkedIn portrait infographic, white background, high resolution about 4:5 aspect ratio. Strong visual hierarchy, generous white space, legible navy typography, vibrant cyan, violet, coral and gold. Attractive colourful editorial 3D illustrations: Hyderabad-style floral event stage, invitation/quote cards, a calendar, Indian rupee calculator, friendly event planner with laptop and a human review checklist. Sophisticated and cheerful. Images occupy about one third of the design. No company logos, no Kaivalyam name, no Salesforce logo imitation, no fake screenshot.
+
+Exact text with clear grouping:
+
+Small top label:
+"SALESFORCE + JAVASCRIPT"
+Large headline:
+"MORE BOOKINGS.
+SMARTER EVENT FINANCE."
+Subtitle:
+"Event Revenue Assistant • Portfolio prototype"
+
+Pictorial workflow across three numbered cards:
+"1  Follow up quotes"
+"2  Protect margins"
+"3  Suggest relevant add-ons"
+
+Results panel clearly headed:
+"LOCAL RESULTS • SYNTHETIC DATA"
+Four equal metric cards:
+"24" "invented opportunities"
+"6" "quote follow-ups"
+"4" "margin reviews"
+"2" "add-on candidates"
+Small badge:
+"29 / 29 JavaScript tests passed"
+Note:
+"Action counts may overlap."
+
+A prominent restrained financial insight panel:
+"₹15,500 potential additional contribution"
+"If both eligible add-ons sell at assumed prices and costs."
+Smaller separated line:
+"₹2 lakh overdue deposits = existing cash due, not new sales."
+Do not use the words revenue growth achieved, profit earned, saved or proven.
+
+A short navy code panel with pale readable monospace text titled:
+"CORE JAVASCRIPT"
+Three exact lines, preserve ASCII straight quotes and code:
+"const contribution = quote - deliveryCost;"
+"if (margin < 0.25) actions.push('REVIEW_MARGIN');"
+"if (upsell) actions.push('DISCUSS_OPTIONAL_ADDON');"
+Code subtitle:
+"Simplified excerpt • amounts in INR paise"
+
+Footer disclaimers in readable type:
+"Local prototype • Not yet deployed in Salesforce"
+"Illustrative potential, not realized income"
+GitHub line large and accurate:
+"github.com/servicenowjyo"
+Hashtags along the bottom in colourful pills:
+"#Salesforce  #JavaScript  #FinanceAutomation"
+
+Constraints: all text spelled exactly; code is simplified extracted logic and not a complete program; do not add claims, affiliate logos, personal data, percentages besides the code threshold, or a fabricated software screenshot. All metrics must remain synthetic, and the ₹15,500 is potential contribution, not revenue or net profit. Pure white canvas, colour comes from tasteful pictures and accent panels. No cropped footer or tiny unreadable disclaimer. Balanced composition, appealing at mobile feed size.

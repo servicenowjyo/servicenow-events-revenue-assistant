@@ -1,0 +1,4 @@
+# Previous prompts checked
+Read this chat's saved invoice SEED prompt (`servicenow-finance-invoice-controls/PROMPT.md`) and jewellery RAIN prompt (`jewellery-exchange-controls/PROMPT.md`). Retained evidence requirements, synthetic-data disclosure, tests, source attribution and Claude upload handoff. Prior local publication instructions were superseded by local handoff; nothing is published by this project. Also reviewed relevant prior project chat `Continue previous project work` for its code/dataset/results/prompt/handoff pattern. General chat search surfaced unrelated job automation; those instructions and personal profiles were not applied to this business project.
+
+Revision November 14, 2026: at the author's request the project was rebuilt for ServiceNow instead of Salesforce. The rules, thresholds, synthetic dataset (stage values renamed to ServiceNow choice values) and results are unchanged; the Salesforce LWC and metadata were retired and are not published.

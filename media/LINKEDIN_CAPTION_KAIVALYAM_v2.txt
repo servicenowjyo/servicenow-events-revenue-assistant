@@ -1,0 +1,11 @@
+Beautiful events deserve smarter finance workflows. 🌸
+
+Inspired by Kaivalyam Events, my ServiceNow + JavaScript prototype flags quote follow-ups, margin risks and suitable add-ons.
+
+🧪 24 synthetic opportunities • 29 tests passed
+Portfolio concept; not yet a live business deployment.
+
+💻 Code: https://github.com/servicenowjyo
+🌸 Event bookings: @hyderabadeventplanners | +91 99859 77703
+
+#ServiceNow #JavaScript #FinanceAutomation #EventPlanning

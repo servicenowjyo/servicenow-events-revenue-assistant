@@ -1,0 +1,206 @@
+
+> test
+> node --test tests/policy.test.cjs tests/servicenow_review.test.cjs
+
+TAP version 13
+# Subtest: positive-margin add-on and separate cash collection
+ok 1 - positive-margin add-on and separate cash collection
+  ---
+  duration_ms: 1.62516
+  type: 'test'
+  ...
+# Subtest: no capacity
+ok 2 - no capacity
+  ---
+  duration_ms: 0.146738
+  type: 'test'
+  ...
+# Subtest: opt out
+ok 3 - opt out
+  ---
+  duration_ms: 0.086863
+  type: 'test'
+  ...
+# Subtest: no budget
+ok 4 - no budget
+  ---
+  duration_ms: 0.074656
+  type: 'test'
+  ...
+# Subtest: already sold
+ok 5 - already sold
+  ---
+  duration_ms: 0.148831
+  type: 'test'
+  ...
+# Subtest: loss-making add-on
+ok 6 - loss-making add-on
+  ---
+  duration_ms: 0.073645
+  type: 'test'
+  ...
+# Subtest: thin add-on margin
+ok 7 - thin add-on margin
+  ---
+  duration_ms: 0.095995
+  type: 'test'
+  ...
+# Subtest: closed lost
+ok 8 - closed lost
+  ---
+  duration_ms: 0.062629
+  type: 'test'
+  ...
+# Subtest: event over
+ok 9 - event over
+  ---
+  duration_ms: 0.205856
+  type: 'test'
+  ...
+# Subtest: event too distant
+ok 10 - event too distant
+  ---
+  duration_ms: 0.208049
+  type: 'test'
+  ...
+# Subtest: low margin needs review not upsell
+ok 11 - low margin needs review not upsell
+  ---
+  duration_ms: 0.138426
+  type: 'test'
+  ...
+# Subtest: 25 percent margin boundary
+ok 12 - 25 percent margin boundary
+  ---
+  duration_ms: 0.081261
+  type: 'test'
+  ...
+# Subtest: three day quote boundary
+ok 13 - three day quote boundary
+  ---
+  duration_ms: 0.080759
+  type: 'test'
+  ...
+# Subtest: deposit due today is not overdue
+ok 14 - deposit due today is not overdue
+  ---
+  duration_ms: 0.064092
+  type: 'test'
+  ...
+# Subtest: paid deposit not overdue
+ok 15 - paid deposit not overdue
+  ---
+  duration_ms: 0.059243
+  type: 'test'
+  ...
+# Subtest: open quote has no collectible deposit
+ok 16 - open quote has no collectible deposit
+  ---
+  duration_ms: 0.064877
+  type: 'test'
+  ...
+# Subtest: unknown stage rejects
+ok 17 - unknown stage rejects
+  ---
+  duration_ms: 0.059382
+  type: 'test'
+  ...
+# Subtest: negative amount rejects
+ok 18 - negative amount rejects
+  ---
+  duration_ms: 0.054905
+  type: 'test'
+  ...
+# Subtest: string amount rejects
+ok 19 - string amount rejects
+  ---
+  duration_ms: 0.682585
+  type: 'test'
+  ...
+# Subtest: fraction paise rejects
+ok 20 - fraction paise rejects
+  ---
+  duration_ms: 0.085778
+  type: 'test'
+  ...
+# Subtest: unsafe amount rejects
+ok 21 - unsafe amount rejects
+  ---
+  duration_ms: 0.079845
+  type: 'test'
+  ...
+# Subtest: currency rejects
+ok 22 - currency rejects
+  ---
+  duration_ms: 0.053028
+  type: 'test'
+  ...
+# Subtest: deposit above quote rejects
+ok 23 - deposit above quote rejects
+  ---
+  duration_ms: 0.050801
+  type: 'test'
+  ...
+# Subtest: bad dates reject
+ok 24 - bad dates reject
+  ---
+  duration_ms: 0.056342
+  type: 'test'
+  ...
+# Subtest: future quote rejects
+ok 25 - future quote rejects
+  ---
+  duration_ms: 0.044161
+  type: 'test'
+  ...
+# Subtest: missing capacity is not consent
+ok 26 - missing capacity is not consent
+  ---
+  duration_ms: 0.043683
+  type: 'test'
+  ...
+# Subtest: zero quote needs margin review
+ok 27 - zero quote needs margin review
+  ---
+  duration_ms: 0.056124
+  type: 'test'
+  ...
+# Subtest: no mutation
+ok 28 - no mutation
+  ---
+  duration_ms: 0.057108
+  type: 'test'
+  ...
+# Subtest: all 24 fixture records valid and deterministic
+ok 29 - all 24 fixture records valid and deterministic
+  ---
+  duration_ms: 3.372404
+  type: 'test'
+  ...
+# Subtest: ServiceNow adapter reproduces local summary for 2026-11-14
+ok 30 - ServiceNow adapter reproduces local summary for 2026-11-14
+  ---
+  duration_ms: 16.708811
+  type: 'test'
+  ...
+# Subtest: read-only run writes nothing; write run disables workflow on every update
+ok 31 - read-only run writes nothing; write run disables workflow on every update
+  ---
+  duration_ms: 13.292439
+  type: 'test'
+  ...
+# Subtest: empty integer field is flagged, not treated as zero
+ok 32 - empty integer field is flagged, not treated as zero
+  ---
+  duration_ms: 7.847383
+  type: 'test'
+  ...
+1..32
+# tests 32
+# suites 0
+# pass 32
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 240.261472

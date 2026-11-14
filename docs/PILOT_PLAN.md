@@ -1,0 +1,6 @@
+# Test whether the business actually earns more
+Use anonymized historical inquiries/quotes and real outcomes to establish baseline: inquiries, quote-to-booking conversion, median first-response/follow-up time, average booking value, add-on take rate, estimated vs actual contribution per event, and deposit days overdue. No such baseline was available here.
+
+Randomly allocate eligible new inquiries to existing workflow or assisted follow-up, balancing event type/budget/date. Choose trial duration/sample size from actual inquiry volume rather than promise an arbitrary percentage. Do not deprive any customer of required service. Lock definitions and eligibility first; compare conversion, incremental delivered-event contribution net of tool/staff/commission costs, cancellations, complaints and workload. Exclude existing pipeline value from incremental sales. Track collections separately. Do not interpret any uplift without uncertainty or claim causal effect from an uncontrolled before/after change.
+
+Quick owner discovery questions: Which service earns the best actual margin? Where do inquiries arrive? How many quotes go uncontacted? Who approves discounts? What add-ons can be delivered without capacity strain? How are deposits reconciled? Which data may be used? The prototype encodes hypotheses until the owner answers.

@@ -1,0 +1,61 @@
+Edit and redesign the supplied LinkedIn infographic as version 2. Image 1 is the infographic edit target and factual content reference. Image 2 and Image 3 are authentic Kaivalyam engagement-decor photos to COMPOSITE as photographs, not repaint. Image 4 is the user-requested founder portrait of Sahitya, to COMPOSITE as a small photographic portrait next to the business name. Preserve Sahitya's identity, face, skin tone, hair, orange-red saree and photographic appearance exactly. Do not beautify, invent, stylize, redraw or replace her face. Use a tasteful head-and-shoulders crop from the supplied photo. Preserve event photos as genuine photos; cropping into attractive frames is fine, invented event scenery is not.
+
+Create an elegant high-resolution white-background portrait LinkedIn infographic about 4:5 aspect ratio, spacious professional layout, dark navy text with cyan, violet, coral and warm gold accents. Use a clean photographic header/collage rather than the original generated event stage. Keep strong legible mobile typography and safe margins. Photos should occupy about one quarter of the canvas. No Salesforce logos. No additional people's faces. Remove the original cartoon lady and invented Charminar stage; replace with supplied authentic event photo panels. A few simple colourful workflow icons are welcome.
+
+Header business identification with Sahitya's photo immediately beside the business name:
+"KAIVALYAM EVENTS"
+"Sahitya Reddy • Founder"
+"Hyderabad"
+Small subtitle:
+"Event-planning inspiration for a Salesforce portfolio concept"
+Small theme label:
+"SALESFORCE + JAVASCRIPT"
+Main title:
+"MORE BOOKINGS.
+SMARTER EVENT FINANCE."
+
+Include both provided event photos as a tasteful two-photo montage labelled:
+"Event photos: @hyderabadeventplanners"
+
+Three compact numbered workflow steps:
+"1 Follow up quotes"
+"2 Protect margins"
+"3 Suggest relevant add-ons"
+
+Results section:
+"LOCAL RESULTS • SYNTHETIC DATA"
+"24 invented opportunities"
+"6 quote follow-ups"
+"4 margin reviews"
+"2 add-on candidates"
+"29 / 29 JavaScript tests passed"
+"Action counts may overlap."
+
+Financial insight:
+"₹15,500 potential additional contribution"
+"If both eligible add-ons sell at assumed prices and costs."
+"₹2 lakh overdue deposits = existing cash due, not new sales."
+
+Code panel heading "CORE JAVASCRIPT"
+Render these exact ASCII code lines in legible monospace:
+"const contribution = quote - deliveryCost;"
+"if (margin < 0.25) actions.push('REVIEW_MARGIN');"
+"if (upsell) actions.push('DISCUSS_OPTIONAL_ADDON');"
+"Simplified excerpt • INR paise"
+
+Separate contact strip, clearly FOR EVENT BOOKINGS, not software services:
+"KAIVALYAM EVENT BOOKINGS"
+"+91 99859 77703"
+"Instagram: @hyderabadeventplanners"
+
+Separate author/code link:
+"Project code: github.com/servicenowjyo"
+
+Readable disclosure:
+"Local portfolio prototype • Not deployed in Salesforce"
+"Illustrative potential, not realized income"
+
+Bottom hashtags:
+"#Salesforce  #JavaScript  #FinanceAutomation"
+
+Constraints: phone must be EXACT +91 99859 77703 (user provided); business spelling KAIVALYAM EVENTS; no inferred email, extra phone, price or claim. No claim that the business actually achieved these synthetic results or is a Salesforce client. Do not frame Sahitya as author of the code or that this is a live system. Keep supplied authentic portrait/photo appearance unchanged as photographic inserts. Do not lose required financial/disclosure text for decorative elements. White canvas, colourful visual appeal, clean editorial design, all footer text inside margins.

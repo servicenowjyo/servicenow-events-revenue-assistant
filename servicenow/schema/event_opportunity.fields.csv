@@ -1,0 +1,25 @@
+column_name,label,type,max_length,mandatory,notes
+opportunity_id,Opportunity ID,String,40,true,Display value; synthetic IDs SYN-EVT-001..024
+currency_code,Currency,String,3,true,Must be INR
+event_type,Event type,String,60,false,Illustrative category
+stage,Stage,Choice,40,true,"Choices: quoted (Quoted), negotiation (Negotiation), closed_won (Closed won), closed_lost (Closed lost)"
+quote_date,Quote date,Date,,true,
+event_date,Event date,Date,,true,
+deposit_due_date,Deposit due date,Date,,true,
+quote_paise,Quote (paise),Integer,,true,Integer INR paise; 100 paise = 1 rupee
+estimated_cost_paise,Estimated delivery cost (paise),Integer,,true,
+deposit_due_paise,Deposit due (paise),Integer,,true,Cumulative scheduled milestone
+deposit_received_paise,Deposit received (paise),Integer,,true,Bank-reconciled receipts only
+addon_price_paise,Add-on price (paise),Integer,,true,
+addon_cost_paise,Add-on cost (paise),Integer,,true,
+addon_already_selected,Add-on already selected,True/False,,false,Set explicitly on every record
+capacity_available,Add-on capacity confirmed,True/False,,false,
+client_opt_out,Client opted out of add-ons,True/False,,false,
+addon_budget_confirmed,Add-on budget confirmed,True/False,,false,
+recommended_actions,Recommended actions,String,200,false,Written by EventRevenueReview; read-only on form
+validation_issues,Validation issues,String,400,false,Written by EventRevenueReview; read-only on form
+contribution_paise,Estimated contribution (paise),Integer,,false,Quote minus estimated delivery cost; not net profit
+contribution_margin_pct,Contribution margin %,Decimal,,false,
+overdue_deposit_paise,Overdue deposit (paise),Integer,,false,Existing cash due; never new revenue
+eligible_addon_contribution_paise,Eligible add-on contribution (paise),Integer,,false,Only if the client accepts
+last_reviewed_on,Last reviewed on,Date,,false,

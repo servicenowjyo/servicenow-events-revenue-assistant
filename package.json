@@ -1,0 +1,8 @@
+{
+  "name": "kaivalyam-servicenow-revenue-assistant",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/policy.test.cjs tests/servicenow_review.test.cjs",
+    "demo": "node src/run.cjs"
+  }
+}

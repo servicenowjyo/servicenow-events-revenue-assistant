@@ -1,0 +1,16 @@
+ServiceNow personal developer instance (Brazil release), scope x_2304109_kaiv_rev
+System Definition > Scripts - Background, run 2026-11-14 in the app scope:
+servicenow/verification/verify_synthetic_import.background.js (read-only)
+
+[0:00:00.180] Script completed in scope x_2304109_kaiv_rev: script
+x_2304109_kaiv_rev: {"as_of":"2026-11-14","environment":"SERVICENOW","records":24,"invalid":0,"quote_followups":6,"margin_reviews":4,"overdue_deposit_reviews":4,"addon_candidates":2,"overdue_deposit_paise":20000000,"eligible_addon_revenue_paise":3500000,"eligible_addon_contribution_paise":1550000,"realized_income_increase_paise":0}
+x_2304109_kaiv_rev: VERIFICATION PASSED: instance matches local results
+
+Scheduled job "Kaivalyam - Daily event revenue review" executed once (Execute Now).
+Advice fields written on all 24 records; recommended_actions, overdue_deposit_paise and
+eligible_addon_contribution_paise compared record-by-record with results/analysis.json: 0 differences.
+
+UI Action "Review revenue actions" on SYN-EVT-004 showed:
+  - Manager review: estimated contribution below 25% of quote.
+  - Finance review: deposit past due. This is existing cash, not new sales.
+Screenshot: servicenow_form_review_actions_SYN-EVT-004.jpg

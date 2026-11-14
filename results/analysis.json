@@ -1,0 +1,335 @@
+{
+  "summary": {
+    "as_of": "2026-11-14",
+    "environment": "LOCAL_NODE_RUN_OF_SERVICENOW_SCRIPT_INCLUDE",
+    "synthetic_records": 24,
+    "invalid": 0,
+    "quote_followups": 6,
+    "margin_reviews": 4,
+    "overdue_deposit_reviews": 4,
+    "addon_candidates": 2,
+    "overdue_deposit_paise": 20000000,
+    "eligible_addon_revenue_paise": 3500000,
+    "eligible_addon_contribution_paise": 1550000,
+    "realized_income_increase_paise": 0,
+    "illustrative_25pct_addon_contribution_paise": 387500
+  },
+  "results": [
+    {
+      "id": "SYN-EVT-001",
+      "valid": true,
+      "issues": [],
+      "actions": [],
+      "contribution_paise": 2560000,
+      "contribution_margin": 0.32,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-002",
+      "valid": true,
+      "issues": [],
+      "actions": [],
+      "contribution_paise": 3360000,
+      "contribution_margin": 0.28,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-003",
+      "valid": true,
+      "issues": [],
+      "actions": [
+        "DISCUSS_OPTIONAL_ADDON"
+      ],
+      "contribution_paise": 4800000,
+      "contribution_margin": 0.3,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 2000000,
+      "eligible_addon_contribution_paise": 900000,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-004",
+      "valid": true,
+      "issues": [],
+      "actions": [
+        "REVIEW_MARGIN",
+        "REVIEW_OVERDUE_DEPOSIT"
+      ],
+      "contribution_paise": 3000000,
+      "contribution_margin": 0.15,
+      "overdue_deposit_paise": 5000000,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-005",
+      "valid": true,
+      "issues": [],
+      "actions": [],
+      "contribution_paise": 6000000,
+      "contribution_margin": 0.25,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-006",
+      "valid": true,
+      "issues": [],
+      "actions": [],
+      "contribution_paise": 11200000,
+      "contribution_margin": 0.4,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-007",
+      "valid": true,
+      "issues": [],
+      "actions": [
+        "FOLLOW_UP_QUOTE"
+      ],
+      "contribution_paise": 2560000,
+      "contribution_margin": 0.32,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-008",
+      "valid": true,
+      "issues": [],
+      "actions": [
+        "FOLLOW_UP_QUOTE"
+      ],
+      "contribution_paise": 3360000,
+      "contribution_margin": 0.28,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-009",
+      "valid": true,
+      "issues": [],
+      "actions": [],
+      "contribution_paise": 4800000,
+      "contribution_margin": 0.3,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-010",
+      "valid": true,
+      "issues": [],
+      "actions": [
+        "REVIEW_MARGIN",
+        "REVIEW_OVERDUE_DEPOSIT"
+      ],
+      "contribution_paise": 3000000,
+      "contribution_margin": 0.15,
+      "overdue_deposit_paise": 5000000,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-011",
+      "valid": true,
+      "issues": [],
+      "actions": [],
+      "contribution_paise": 6000000,
+      "contribution_margin": 0.25,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-012",
+      "valid": true,
+      "issues": [],
+      "actions": [],
+      "contribution_paise": 11200000,
+      "contribution_margin": 0.4,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-013",
+      "valid": true,
+      "issues": [],
+      "actions": [
+        "FOLLOW_UP_QUOTE"
+      ],
+      "contribution_paise": 2560000,
+      "contribution_margin": 0.32,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-014",
+      "valid": true,
+      "issues": [],
+      "actions": [
+        "FOLLOW_UP_QUOTE"
+      ],
+      "contribution_paise": 3360000,
+      "contribution_margin": 0.28,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-015",
+      "valid": true,
+      "issues": [],
+      "actions": [],
+      "contribution_paise": 4800000,
+      "contribution_margin": 0.3,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-016",
+      "valid": true,
+      "issues": [],
+      "actions": [
+        "REVIEW_MARGIN",
+        "REVIEW_OVERDUE_DEPOSIT"
+      ],
+      "contribution_paise": 3000000,
+      "contribution_margin": 0.15,
+      "overdue_deposit_paise": 5000000,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-017",
+      "valid": true,
+      "issues": [],
+      "actions": [],
+      "contribution_paise": 6000000,
+      "contribution_margin": 0.25,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-018",
+      "valid": true,
+      "issues": [],
+      "actions": [
+        "DISCUSS_OPTIONAL_ADDON"
+      ],
+      "contribution_paise": 11200000,
+      "contribution_margin": 0.4,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 1500000,
+      "eligible_addon_contribution_paise": 650000,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-019",
+      "valid": true,
+      "issues": [],
+      "actions": [
+        "FOLLOW_UP_QUOTE"
+      ],
+      "contribution_paise": 2560000,
+      "contribution_margin": 0.32,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-020",
+      "valid": true,
+      "issues": [],
+      "actions": [
+        "FOLLOW_UP_QUOTE"
+      ],
+      "contribution_paise": 3360000,
+      "contribution_margin": 0.28,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-021",
+      "valid": true,
+      "issues": [],
+      "actions": [],
+      "contribution_paise": 4800000,
+      "contribution_margin": 0.3,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-022",
+      "valid": true,
+      "issues": [],
+      "actions": [
+        "REVIEW_MARGIN",
+        "REVIEW_OVERDUE_DEPOSIT"
+      ],
+      "contribution_paise": 3000000,
+      "contribution_margin": 0.15,
+      "overdue_deposit_paise": 5000000,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-023",
+      "valid": true,
+      "issues": [],
+      "actions": [],
+      "contribution_paise": 6000000,
+      "contribution_margin": 0.25,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    },
+    {
+      "id": "SYN-EVT-024",
+      "valid": true,
+      "issues": [],
+      "actions": [],
+      "contribution_paise": 11200000,
+      "contribution_margin": 0.4,
+      "overdue_deposit_paise": 0,
+      "eligible_addon_revenue_paise": 0,
+      "eligible_addon_contribution_paise": 0,
+      "payment_authorized": false
+    }
+  ]
+}
