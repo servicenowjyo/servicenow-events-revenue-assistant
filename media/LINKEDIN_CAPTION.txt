@@ -1,10 +1,10 @@
-More bookings. Better margins. Smarter event finance. 🎉
+My cousin Sahitya runs Kaivalyam Events in Hyderabad, and I wanted to see how ServiceNow could help a small events business. 🌸
 
-My ServiceNow + JavaScript prototype flags quote follow-ups, margin risks and relevant add-ons.
+So I built a small app that spots quotes needing a follow-up, margins running too thin, overdue deposits and add-ons worth suggesting. It only gives advice; people still make the calls.
 
-🧪 24 synthetic opportunities • 29 tests passed
-Local prototype; not yet yet a live business deployment.
+I tested it on 24 made-up events in a ServiceNow developer instance, and every result matched. ✅
 
-💻 GitHub: https://github.com/servicenowjyo
+💻 Code: github.com/servicenowjyo/servicenow-events-revenue-assistant
+🎉 Planning an event in Hyderabad? @hyderabadeventplanners | +91 99859 77703
 
-#ServiceNow #JavaScript #FinanceAutomation #ServiceNowDeveloper
+#ServiceNow #JavaScript #FinanceAutomation #EventPlanning #LearningInPublic

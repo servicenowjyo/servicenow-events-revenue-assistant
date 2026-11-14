@@ -1,5 +1,5 @@
 # Handoff (updated 14 Nov 2026): ServiceNow version
-The platform changed from Salesforce to ServiceNow at the author's request. The Salesforce LWC and metadata were moved to `_archive_salesforce/`, which is gitignored and not published. The ServiceNow app is deployed on the author's developer instance and verified there (see results/STATUS.md). The author asked for the repo to be published on GitHub, including the media folder with Kaivalyam photos, Sahitya's portrait and the booking number. Both infographic PNGs still say "Salesforce" and should be regenerated before posting.
+The platform changed from Salesforce to ServiceNow at the author's request. The Salesforce LWC and metadata were moved to `_archive_salesforce/`, which is gitignored and not published. The ServiceNow app is deployed on the author's developer instance and verified there (see results/STATUS.md). The author asked for the repo to be published on GitHub, including the media folder with Kaivalyam photos, Sahitya's portrait and the booking number. The current infographic, `media/ServiceNow_Infographic_Kaivalyam.png`, matches this repo (see INFOGRAPHIC_QA.md). The Salesforce-era images were moved to `_archive_salesforce/media_salesforce_era/`.
 
 ## Earlier handoff notes (Salesforce era, kept for history)
 # Handoff — local prototype only

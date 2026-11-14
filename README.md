@@ -46,12 +46,10 @@ Follow [`docs/SERVICENOW_SETUP.md`](docs/SERVICENOW_SETUP.md). It covers a free 
 ## Data
 `data/DATASET_CARD.md` describes the dataset. It has 24 invented records with amounts in integer INR paise. Nothing came from Kaggle, Instagram or the business's own systems, and there are no client names or phone numbers.
 
-## LinkedIn infographic kit
-The `media/` folder holds two infographics, the prompts that generated them, captions, alt text and QA notes. Version 2 (`LinkedIn_Infographic_Kaivalyam_v2.png`) uses Kaivalyam's own decor photos and founder Sahitya Reddy's portrait plus the booking number, all included at the author's request. Sources are listed in `media/KAIVALYAM_PHOTO_CONTACT_SOURCES.md`. The photos and portrait are third-party material and are **not** covered by the MIT licence.
+## LinkedIn infographic
+`media/ServiceNow_Infographic_Kaivalyam.png` is checked figure by figure against this repo's results (see `media/INFOGRAPHIC_QA.md`). The `media/` folder also holds the prompt that generated it, a ready-to-post caption and alt text. The image uses Kaivalyam's own decor photos and founder Sahitya Reddy's portrait plus the booking number, all included at the author's request. Sources are listed in `media/KAIVALYAM_PHOTO_CONTACT_SOURCES.md`. The photos and portrait are third-party material and are **not** covered by the MIT licence.
 
-> Note: both infographic images were made for the earlier Salesforce version of this project and still say "Salesforce". They need to be regenerated before they are posted alongside this ServiceNow code.
-
-![Kaivalyam infographic v2](media/LinkedIn_Infographic_Kaivalyam_v2.png)
+![Kaivalyam ServiceNow infographic](media/ServiceNow_Infographic_Kaivalyam.png)
 
 ## Screenshot from the developer instance
 ![Review revenue actions on SYN-EVT-004](results/screenshots/servicenow_form_review_actions_SYN-EVT-004.jpg)

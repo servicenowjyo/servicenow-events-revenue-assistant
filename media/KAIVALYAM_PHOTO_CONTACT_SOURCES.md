@@ -11,3 +11,5 @@ Founder portrait: profile picture at https://www.instagram.com/sahithyareddy55/ 
 These photographs remain third-party material and are excluded from the project's MIT software licence. Source credit is included in the infographic. No broader licence, company endorsement or live Salesforce engagement is asserted. Do not extract the photos for unrelated redistribution.
 
 Creation: built-in image-generation editing tool, using the original infographic, two decor images and Sahitya's portrait as references. Prompt: INFOGRAPHIC_V2_PROMPT.txt. Final: LinkedIn_Infographic_Kaivalyam_v2.png. Original source files and version1 preserved.
+
+Update 14 Nov 2026: the current image is `ServiceNow_Infographic_Kaivalyam.png`, generated with ChatGPT image editing from the same three source photos (prompt: INFOGRAPHIC_PROMPT.txt, checks: INFOGRAPHIC_QA.md). The earlier Salesforce-era infographics are retired and not published.
