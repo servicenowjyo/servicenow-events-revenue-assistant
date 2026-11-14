@@ -1,6 +1,6 @@
 # Proposed solution for Kaivalyam Events
 
-## Opportunity to validate with your cousin
+## Opportunity to validate with the business owner
 For event decor/planning, the quote-to-booking handoff and the cost of extras can affect contribution. A promising project is a **ServiceNow Event Revenue Assistant**: surface quotes needing follow-up, stop unnoticed low-margin quotes from being treated as healthy opportunities, and identify relevant, deliverable optional upgrades. This is a proposed business opportunity; no claim that Kaivalyam currently has these problems.
 
 ## Dataset used — exact answer

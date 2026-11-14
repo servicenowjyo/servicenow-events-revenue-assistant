@@ -1,6 +1,6 @@
 # Event Revenue Assistant — ServiceNow + JavaScript
 
-Independent portfolio prototype for a Hyderabad event-planning business (inspired by Kaivalyam Events, run by the author's cousin). A ServiceNow scoped app flags quotes that need follow-up, quotes whose margin is too thin, deposits that are overdue, and bookings where an optional add-on is worth discussing. It only gives advice: it doesn't send messages, change quotes, apply discounts or take payments.
+Independent portfolio prototype for a Hyderabad event-planning business (inspired by Kaivalyam Events). A ServiceNow scoped app flags quotes that need follow-up, quotes whose margin is too thin, deposits that are overdue, and bookings where an optional add-on is worth discussing. It only gives advice: it doesn't send messages, change quotes, apply discounts or take payments.
 
 > **Status:** deployed and verified on a ServiceNow personal developer instance (Brazil release) on 14 Nov 2026. The instance gave the same results as the 32 local tests on all 24 records (see `results/servicenow_verification_2026-11-14.txt` and the screenshot in `results/screenshots/`). All data is synthetic. This is not a live business deployment, and no real revenue was measured.
 

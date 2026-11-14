@@ -1,4 +1,4 @@
-My cousin Sahitya runs Kaivalyam Events in Hyderabad, and I wanted to see how ServiceNow could help a small events business. 🌸
+Sahitya Reddy runs Kaivalyam Events in Hyderabad, and I wanted to see how ServiceNow could help a small events business like hers. 🌸
 
 So I built a small app that spots quotes needing a follow-up, margins running too thin, overdue deposits and add-ons worth suggesting. It only gives advice; people still make the calls.
 
